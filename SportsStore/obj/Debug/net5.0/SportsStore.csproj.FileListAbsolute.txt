@@ -69,3 +69,5 @@ C:\Users\User\Desktop\tut\SportsStore\SportsStore\SportsStore\obj\Debug\net5.0\S
 C:\Users\User\Desktop\tut\SportsStore\SportsStore\SportsStore\obj\Debug\net5.0\SportsStore.genruntimeconfig.cache
 C:\Users\User\Desktop\tut\SportsStore\SportsStore\SportsStore\bin\Debug\net5.0\libman.json
 C:\Users\User\Desktop\tut\SportsStore\SportsStore\SportsStore\obj\Debug\net5.0\Razor\Views\Shared\ProductSummary.cshtml.g.cs
+C:\Users\User\Desktop\tut\SportsStore\SportsStore\SportsStore\obj\Debug\net5.0\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+C:\Users\User\Desktop\tut\SportsStore\SportsStore\SportsStore\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs

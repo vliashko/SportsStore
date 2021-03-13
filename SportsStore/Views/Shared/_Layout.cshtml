@@ -8,12 +8,12 @@
                            asp-href-exclude="lib/bootstrap/dist/css/bootstrap-grid.css, lib/bootstrap/dist/css/bootstrap-reboot.css"/>
 </head>
 <body>
-    <div class="navbar navbar-inverse bg-inverse" role="navigation">
-        <a class="navbar-brand" href="#">SPORTS STORE</a>
+    <div class="bg-primary m-2 p-2">
+        <h4>SPORTS STORE</h4>
     </div>
     <div class="row m-1 p-1">
         <div id="categories" class="col-3">
-            Put something useful here later
+            @await Component.InvokeAsync("NavigationMenu")
         </div>
         <div class="col-9">
             @RenderBody()

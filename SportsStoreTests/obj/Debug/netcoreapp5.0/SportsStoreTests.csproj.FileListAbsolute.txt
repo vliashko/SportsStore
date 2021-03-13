@@ -136,3 +136,4 @@ C:\Users\User\Desktop\tut\SportsStore\SportsStore\SportsStoreTests\obj\Debug\net
 C:\Users\User\Desktop\tut\SportsStore\SportsStore\SportsStoreTests\obj\Debug\netcoreapp5.0\ref\SportsStoreTests.dll
 C:\Users\User\Desktop\tut\SportsStore\SportsStore\SportsStoreTests\obj\Debug\netcoreapp5.0\SportsStoreTests.pdb
 C:\Users\User\Desktop\tut\SportsStore\SportsStore\SportsStoreTests\obj\Debug\netcoreapp5.0\SportsStoreTests.genruntimeconfig.cache
+C:\Users\User\Desktop\tut\SportsStore\SportsStore\SportsStoreTests\bin\Debug\netcoreapp5.0\libman.json
