@@ -21,6 +21,9 @@ namespace SportsStore
             services.AddDbContext<ApplicationDbContext>(options => 
                 options.UseSqlServer(Configuration["Data:ConnectionString"]));
             services.AddTransient<IProductRepository, EFProductRepository>();
+            services.AddTransient<IOrderRepository, EFOrderRepository>();
+            services.AddScoped(sp => SessionCart.GetCart(sp));
+            services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
             services.AddMvc(opts => opts.EnableEndpointRouting = false);
             services.AddMemoryCache();
             services.AddSession();

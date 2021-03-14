@@ -71,3 +71,6 @@ C:\Users\User\Desktop\tut\SportsStore\SportsStore\SportsStore\bin\Debug\net5.0\l
 C:\Users\User\Desktop\tut\SportsStore\SportsStore\SportsStore\obj\Debug\net5.0\Razor\Views\Shared\ProductSummary.cshtml.g.cs
 C:\Users\User\Desktop\tut\SportsStore\SportsStore\SportsStore\obj\Debug\net5.0\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
 C:\Users\User\Desktop\tut\SportsStore\SportsStore\SportsStore\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\User\Desktop\tut\SportsStore\SportsStore\SportsStore\obj\Debug\net5.0\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+C:\Users\User\Desktop\tut\SportsStore\SportsStore\SportsStore\obj\Debug\net5.0\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\User\Desktop\tut\SportsStore\SportsStore\SportsStore\obj\Debug\net5.0\Razor\Views\Order\Completed.cshtml.g.cs

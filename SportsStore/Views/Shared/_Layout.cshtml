@@ -4,12 +4,16 @@
 <head>
     <meta name="viewport" content="width=device-width" />
     <title>SportsStore</title>
+    <link rel="stylesheet" asp-href-include="lib/font-awesome/css/font-awesome.min.css" />
     <link rel="stylesheet" asp-href-include="lib/bootstrap/dist/css/bootstrap.min.css" 
                            asp-href-exclude="lib/bootstrap/dist/css/bootstrap-grid.css, lib/bootstrap/dist/css/bootstrap-reboot.css"/>
 </head>
 <body>
-    <div class="bg-primary m-2 p-2">
+    <div class="bg-primary m-2 p-2 text-white" style="font-size: 30px">
         <h4>SPORTS STORE</h4>
+        <div class="text-right text-white" style="font-size: 20px">
+            @await Component.InvokeAsync("CartSummary") 
+        </div> 
     </div>
     <div class="row m-1 p-1">
         <div id="categories" class="col-3">
