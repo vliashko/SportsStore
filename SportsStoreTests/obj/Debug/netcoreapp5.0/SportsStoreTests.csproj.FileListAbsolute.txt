@@ -137,3 +137,8 @@ C:\Users\User\Desktop\tut\SportsStore\SportsStore\SportsStoreTests\obj\Debug\net
 C:\Users\User\Desktop\tut\SportsStore\SportsStore\SportsStoreTests\obj\Debug\netcoreapp5.0\SportsStoreTests.pdb
 C:\Users\User\Desktop\tut\SportsStore\SportsStore\SportsStoreTests\obj\Debug\netcoreapp5.0\SportsStoreTests.genruntimeconfig.cache
 C:\Users\User\Desktop\tut\SportsStore\SportsStore\SportsStoreTests\bin\Debug\netcoreapp5.0\libman.json
+C:\Users\User\Desktop\tut\SportsStore\SportsStore\SportsStoreTests\bin\Debug\netcoreapp5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\Desktop\tut\SportsStore\SportsStore\SportsStoreTests\bin\Debug\netcoreapp5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\Desktop\tut\SportsStore\SportsStore\SportsStoreTests\bin\Debug\netcoreapp5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\Desktop\tut\SportsStore\SportsStore\SportsStoreTests\bin\Debug\netcoreapp5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\Desktop\tut\SportsStore\SportsStore\SportsStoreTests\bin\Debug\netcoreapp5.0\Microsoft.Extensions.Identity.Stores.dll
